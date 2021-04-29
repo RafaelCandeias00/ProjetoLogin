@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.BemVindo.resources
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastreSe.resources
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Form1.resources
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
